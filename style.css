@@ -15,7 +15,7 @@ header{
 .hero{
     position: relative;
     min-height: 100vh;
-    background-image: url(netflixbg.jpg);
+    background-image: url(/netflixbg.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -45,7 +45,7 @@ header{
     width: clamp(90px, 12vw, 160px);
     height: auto;
     aspect-ratio: 3 / 0.8;
-    background-image: url(netflixlogo.svg);
+    background-image: url(/netflixlogo.svg);
     background-size: cover;
 
 }
